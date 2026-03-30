@@ -52,8 +52,8 @@ Response
  How to Run
 
 --bash
-git clone <>
-cd mini-agent-orchestrator
+git clone <https://github.com/MOHAN123DOL/mini_agent>
+cd mini-agent
 
 python -m venv venv
 venv\Scripts\activate
